@@ -51,3 +51,5 @@ Dummy classifier (baseline) K Nearest Neighbours Logistic Regression Support Vec
 # Drawing conclusions — Summary
 In this post, we have walked through a complete end-to-end machine learning project using the Telco customer Churn dataset. We started by cleaning the data and analyzing. Then, to be able to build a machine learning model, we transformed the categorical data into numeric variables (feature engineering). After transforming the data, we tried 6 different machine learning algorithms using default parameters. Finally, we tuned the hyperparameters of the Gradient Boosting Classifier (best performance model) for model optimization, obtaining an accuracy of nearly 80% (close to 6% higher than the baseline).
 
+#Tutorial video 
+https://youtu.be/mdUIq1vYL5Y
